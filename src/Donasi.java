@@ -1,7 +1,4 @@
-/**
- * Kelas Donasi merepresentasikan data donasi yang diberikan oleh seorang donatur.
- * Menyimpan nama donatur dan jumlah donasi.
- */
+
 public class Donasi {
     private String namaDonatur;
     private double jumlahDonasi;
