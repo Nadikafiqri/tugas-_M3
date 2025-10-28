@@ -4,7 +4,7 @@ public class Donasi {
     private double jumlahDonasi;
 
     /**
-     * Konstruktor untuk membuat objek Donasi.
+     * Konstruktor untuk membuat objek Donasi
      *
      * @param namaDonatur nama dari donatur.
      * @param jumlahDonasi jumlah donasi yang diberikan.
