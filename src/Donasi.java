@@ -15,7 +15,6 @@ public class Donasi {
     }
 
     /**
-     * Mengambil nama donatur.
      *
      * @return nama donatur.
      */
